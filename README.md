@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaiurbekuO/leetcode/tree/master/0053-maximum-subarray) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaiurbekuO/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shaiurbekuO/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/shaiurbekuO/leetcode/tree/master/0782-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shaiurbekuO/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
