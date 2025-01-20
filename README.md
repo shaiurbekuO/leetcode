@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/shaiurbekuO/leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/shaiurbekuO/leetcode/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
