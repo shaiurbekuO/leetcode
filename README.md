@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/shaiurbekuO/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shaiurbekuO/leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
