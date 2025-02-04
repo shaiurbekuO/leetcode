@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaiurbekuO/leetcode/tree/master/0053-maximum-subarray) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shaiurbekuO/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaiurbekuO/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shaiurbekuO/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shaiurbekuO/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shaiurbekuO/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
