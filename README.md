@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shaiurbekuO/leetcode/tree/master/0053-maximum-subarray) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shaiurbekuO/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shaiurbekuO/leetcode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
