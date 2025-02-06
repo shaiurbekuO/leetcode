@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shaiurbekuO/leetcode/tree/master/0053-maximum-subarray) |
+| [0792-binary-search](https://github.com/shaiurbekuO/leetcode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shaiurbekuO/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaiurbekuO/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/shaiurbekuO/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
