@@ -72,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/shaiurbekuO/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/shaiurbekuO/leetcode/tree/master/0792-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shaiurbekuO/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
