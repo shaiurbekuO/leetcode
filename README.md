@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shaiurbekuO/leetcode/tree/master/0053-maximum-subarray) |
 | [0792-binary-search](https://github.com/shaiurbekuO/leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shaiurbekuO/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaiurbekuO/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shaiurbekuO/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaiurbekuO/leetcode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
