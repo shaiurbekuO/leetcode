@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shaiurbekuO/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shaiurbekuO/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shaiurbekuO/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaiurbekuO/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/shaiurbekuO/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shaiurbekuO/leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shaiurbekuO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shaiurbekuO/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaiurbekuO/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaiurbekuO/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/shaiurbekuO/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
